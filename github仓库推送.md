@@ -12,7 +12,7 @@ New repository
 git init	#初始化目录
 git add .	#
 git commit -m "备注"
-git remote add origin https://github.com/仓库地址
+git remote add origin https://github.com/仓库地址.git
 git branch -M main
 git push -u origin main		#推送
 ```
